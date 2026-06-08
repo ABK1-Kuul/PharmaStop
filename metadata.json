@@ -1,0 +1,6 @@
+{
+  "name": "PharmaStop",
+  "description": "Premium Pharmacy Management System by BitLabs Technology PLC. Clinical-grade multi-branch inventory tracking, real-time analytics, and shift coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
